@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @SechanN
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi I'm Rayhan And this Account For School Asignment Only
 
-<!---
-SechanN/SechanN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<a href="https://github.com/Ryhann">Main Account</a>
